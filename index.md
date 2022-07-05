@@ -1,8 +1,11 @@
 ## Computational Approaches to Mind and Life
 
-An online event seminar on the “computational approaches to mind and life” - The event will bring together researchers with expertise in various areas such as complexity science, deep & reinforcement learning, as well as theoretical neuroscience & philosophy to explore different approaches in the study of the (biological and/or artificial) mind: What are those approaches essentially about? What are major benefits & caveats? Do different approaches speak to, complement, or contradict each other? What would bring research in the computational sciences forward?
+An online event seminar on the “computational approaches to mind and life” - The event will bring together researchers with expertise in various areas such as complexity science, deep & reinforcement learning, as well as theoretical neuroscience & philosophy to explore different approaches in the study of the (biological and/or artificial) mind: 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1. What are those approaches essentially about? 
+2. What are major benefits & caveats? 
+3. Do different approaches speak to, complement, or contradict each other? 
+4. What would bring research in the computational sciences forward?
 
 ### Markdown
 
