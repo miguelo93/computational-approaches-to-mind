@@ -1,3 +1,7 @@
 theme: jekyll-theme-slate
 title: Computational approaches to Mind
 description: 20th October 2022 
+
+github:
+
+is_project_page: false
