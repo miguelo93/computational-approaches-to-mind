@@ -2,9 +2,6 @@
 
 An online event seminar on the “computational approaches to mind and life” - The event will bring together researchers with expertise in various areas such as complexity science, deep & reinforcement learning, as well as theoretical neuroscience & philosophy to explore different approaches in the study of the (biological and/or artificial) mind: What are those approaches essentially about? What are major benefits & caveats? Do different approaches speak to, complement, or contradict each other? What would bring research in the computational sciences forward?
 
-
-You can use the [editor on GitHub](https://github.com/miguelo93/computational-approaches-to-mind/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
