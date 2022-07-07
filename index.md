@@ -1,40 +1,50 @@
-## Computational Approaches to Mind and Life
+# Rethinking computational approaches to the brain - fundamental challenges and future perspectives
+## Friday, 21st October 2022 - online seminar
 
-An online event seminar on the “computational approaches to mind and life” - The event will bring together researchers with expertise in various areas such as complexity science, deep & reinforcement learning, as well as theoretical neuroscience & philosophy to explore different approaches in the study of the (biological and/or artificial) mind: 
+This online event will bring together researchers with expertise in various areas such as complexity science, machine learning, as well as theoretical neuroscience & philosophy to explore different computational approaches in the study of brain functioning : 
 
 1. What are those approaches essentially about? 
 2. What are major benefits & caveats? 
 3. Do different approaches speak to, complement, or contradict each other? 
 4. What would bring research in the computational sciences forward?
+5. What can bring progress into computational approaches to understand the brain?
 
-### Markdown
+## Speakers
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Joseph Lizier
 
-```markdown
-Syntax highlighted code block
+Prof. Joseph Lizier is  Associate Professor in Complex Systems at the Univeristy of Sidney. His research focuses on information processing in nature, networks, neuro, etc.
 
-# Header 1
-## Header 2
-### Header 3
+[Personal website](https://lizier.me/joseph/) | [twitter](https://twitter.com/jlizier) | [Google Scholar](https://scholar.google.com/citations?user=QJwapBoAAAAJ&hl=en)
 
-- Bulleted
-- List
+### Romaine Brette
 
-1. Numbered
-2. List
+Romain Brette is the Director in computational and theoretical neuroscience in the Institute de la vision, in Paris, where He leads the Computational neuroscience of sensory systems group. His main interests are neural modeling of perception, spike initiation, as well as epstemology of theoretical and computational neuroscience.
 
-**Bold** and _Italic_ and `Code` text
+[Personal website](http://romainbrette.fr/) | [twitter](https://twitter.com/RomainBrette) | [Google Scholar](https://scholar.google.com/citations?hl=en&user=lEHiPU4AAAAJ)
 
-[Link](url) and ![Image](src)
-```
+### Gael Varoquax
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Gael Varoquax is the Research Director of soda at Inria (National Institute for Research in Digital Science and Technology, in Paris). He's also the director of the [scikit-learn operations at Inria foundation](https://scikit-learn.fondation-inria.fr/home/). His research interests are on machine learning and public/mental health, cognition, and brain activity.
 
-### Jekyll Themes
+[Personal website](https://gael-varoquaux.info/) | [twitter](https://twitter.com/gaelvaroquaux) | [Google Scholar](https://scholar.google.com/citations?user=OGGu384AAAAJ&hl=en)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/miguelo93/computational-approaches-to-mind/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Konrad Kording
 
-### Support or Contact
+Dr. Kording's research has one single focus, data that matters. Early research in the lab focused on computational neuroscience and in particular movement. But as the approaches matured, the focus has more been on discovering ways in which new data sources as well as emerging data analysis can enable awesome possibilities. The current focus is on Causality in Data science applications - how do we know how things work if we can not randomize? Our style of working is transdisciplinary, we collaborate on virtually every project.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Personal website](http://koerding.com/) | [twitter](https://twitter.com/gaelvaroquaux) | [Google Scholar](https://scholar.google.com/citations?user=MiFqJGcAAAAJ&hl=en)
+
+### Jessica Flack
+
+Prof. Flack is a professor at Sante Fe Institute, New Mexico, where she runs Collective Computation Group. Her research focuses on evolutionary theory, cognitive neuroscience and behavior, statistical mechanics, information theory, dynamical systems and theoretical computer science to study the roles of information processing and collective computation in the emergence of robust structure and function in adaptive systems.
+
+[Personal website](https://c4.santafe.edu/) | [twitter](https://twitter.com/c4computation?lang=en) 
+
+### Melanie Mitchell
+
+Melanie Mitchell is the Davis Professor at the Santa Fe Institute. Her current research focuses on conceptual abstraction, analogy-making, and visual recognition in artificial intelligence systems. 
+
+[Personal website](https://melaniemitchell.me/) | [twitter](https://twitter.com/MelMitchell1) | [Google Scholar]([https://scholar.google.com/citations?user=MiFqJGcAAAAJ&hl=en](https://scholar.google.com/citations?user=4xK5uaQAAAAJ&hl=en))
+
+
